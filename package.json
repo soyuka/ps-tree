@@ -1,18 +1,19 @@
 {
-  "name": "ps-tree",
+  "name": "ps-tree-ce",
   "version": "1.1.0",
-  "description": "Get all children of a pid",
+  "description": "Get all children of a pid (Community edition)",
   "license": "MIT",
-  "homepage": "http://github.com/indexzero/ps-tree#readme",
-  "repository": "github:indexzero/ps-tree",
+  "homepage": "http://github.com/soyuka/ps-tree#readme",
+  "repository": "github:soyuka/ps-tree",
   "bugs": {
-    "url": "https://github.com/indexzero/ps-tree/issues",
-    "email": "charlie.robbins@gmail.com"
+    "url": "https://github.com/soyuka/ps-tree/issues",
+    "email": "soyuka@gmail.com"
   },
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "contributors": [
     "Zhuohuan LI <zixia@zixia.net> (https://github.com/zixia)",
-    "Simone Primarosa <simonepri@outlook.com> (https://github.com/simonepri)"
+    "Simone Primarosa <simonepri@outlook.com> (https://github.com/simonepri)",
+    "Antoine Bluchet <soyuka@gmail.com> (https://github.com/soyuka)"
   ],
   "keyboards": [
     "ps-tree",
